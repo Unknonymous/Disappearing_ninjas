@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: solid 1px red;
+}
+body{
+    background-color: darkslategrey;
+}
+img{
+    width: 100%;
+}
+#wrapper{
+    width: 1024px;
+    background-color: black;
+    margin: auto;
+}
+#nonins{
+    color: white;
+    text-align: center;
+    margin: 80px 0px 80px 0px;
+}
+#picblok{
+    width: 768px;
+    margin: auto;
+}
